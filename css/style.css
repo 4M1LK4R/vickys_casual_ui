@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Futura Md BT";
+  src: url("../fonts/futura_medium.ttf");
+}
+html,
+body {
+  font-family: "Futura Md BT";
+  height: 100%;
+}
+
+.btn {
+  border-radius: 0px !important;
+}
