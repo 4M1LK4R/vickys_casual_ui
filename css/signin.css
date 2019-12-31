@@ -39,18 +39,16 @@ body {
   z-index: 2;
 }
 .form-signin input[type="number"] {
-  background: transparent !important;
   color: white;
-  margin-bottom: -1px;
-  border-radius: 50px;
+
   margin-bottom: 5px;
 
 }
 .form-signin input[type="password"] {
-  background: transparent !important;
+
   color: white;
   margin-bottom: 10px;
-  border-radius: 50px;
+
 }
 
 /* Others*/
