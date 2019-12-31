@@ -39,16 +39,21 @@ body {
   z-index: 2;
 }
 .form-signin input[type="number"] {
+  text-transform: none !important;
   color: white;
-
   margin-bottom: 5px;
+  font-size: 14px;
 
 }
 .form-signin input[type="password"] {
-
+  text-transform: none !important;
   color: white;
   margin-bottom: 10px;
-
+  font-size: 14px;
 }
 
 /* Others*/
+::placeholder {
+  color: white !important;
+
+}
